@@ -1,0 +1,15 @@
+org.example
+org.example.client.controller
+org.example.client.repository
+org.example.client.service
+org.example.client.view
+org.example.databseconnection
+org.example.log
+org.example.order.controller
+org.example.order.repository
+org.example.order.service
+org.example.order.view
+org.example.product.controller
+org.example.product.repository
+org.example.product.service
+org.example.product.view
